@@ -3,6 +3,7 @@ import { SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/clerk-reac
 export default function App() {
   return (
     <header>
+      <h1>Harsh jain</h1>
       <SignedOut>
         <SignInButton />
       </SignedOut>
